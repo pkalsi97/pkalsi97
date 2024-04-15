@@ -1,5 +1,5 @@
 # Hi there, I'm Pranjul Kalsi! 👋
-- I am currently working as a software developer.
+- I am currently working as a Software Engineer.
 - Currently learning Go, LLD and webservers.
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/pranjulkalsi/). 
 
